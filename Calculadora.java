@@ -5,7 +5,7 @@
  @Version 3.0 5/02/2021
  ---------------------------------------*/
 /**
- * Calculadorass
+ * Calculadora
  * Inicio de la clase Calculadora que implementa la interface CalculadoraGeneral
  */
 public class Calculadora implements CalculadoraGeneral{
